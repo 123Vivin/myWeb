@@ -1,0 +1,19 @@
+.hrd{
+	height:80px;width:1000px;
+	margin:100px auto 0 195px;
+	border:0;
+	background:url(pion/hr8.png) no-repeat left center;
+	line-height:1px;font-size:1px;
+	}
+.hrd hr{ display:none;}
+#kobe{width:1000px;height:300px;margin:auto auto 0 180px;
+	    background-color:black;}
+.dream{width:300px;height:200px;margin:50px auto auto 50px;}
+#coffe{width:1000px;height:300px;margin:30px auto 0 180px;
+	    background-color:black;}
+#travel{width:1000px;height:300px;margin:30px auto 0 180px;
+	    background-color:black;}
+p{color:#fff;}
+#open{width:200px;height:50px;background-color:Gold;}
+.text{float:right;margin:50px 50px auto auto;}
+.text1{float:right;margin:50px 50px auto auto;width:400px;height:200px;}

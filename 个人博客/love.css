@@ -1,0 +1,11 @@
+.hrlove{
+	height:80px;width:1000px;
+	margin:100px auto 0 auto;
+	border:0;
+	background:url(pion/hr6.png) no-repeat left center;
+	line-height:1px;font-size:1px;
+	}
+.hrlove hr{ display:none;}
+#xin{float:right;width:400px;height:300px;font-family:"ºÚÌå"£¬Arial,Helvetica,sans-serif;}
+#marry{ width:500px;height:300px;}
+#hands{width:150px; height:100px;float:right;}

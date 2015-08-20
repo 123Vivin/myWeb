@@ -1,0 +1,12 @@
+@charset "gb2312";
+.hrfir{
+	height:80px;width:1000px;
+	margin:100px auto 0 195px;
+	border:0;
+	background:url(pion/hr7.png) no-repeat left center;
+	line-height:1px;font-size:1px;
+	}
+.hrfir hr{ display:none;}
+.pu{ background-color:black;height:260px;width:1000px;overflow:hidden;margin:0 100px auto 177px;font-family:"Î¢ÈíÑÅºÚ"£¬Arial,Helvetica,sans-serif;}
+.box{width:400px;margin:auto;overflow:hidden;}
+.text{width:350px;line-height:26px;margin:60px 0 0 20px;float:left:font-size:20px;color:#fff;}

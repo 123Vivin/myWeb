@@ -1,0 +1,8 @@
+.hrf{
+	height:80px;width:1000px;
+	margin:100px auto 0 auto;
+	border:0;
+	background:url(pion/hr5.png) no-repeat left center;
+	line-height:1px;font-size:1px;
+	}
+.hrf hr{ display:none;}
